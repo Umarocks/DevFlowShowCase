@@ -1,4 +1,5 @@
-# **DevFlow: Software Development Assistant** [UNDER DEVELOPMENT] ( ***Due to the nature and high potential of the project, i am keeping the codebase private***)
+# **DevFlow: Software Development Assistant** [UNDER DEVELOPMENT]  
+( ***Due to the nature and high potential of the project, i am keeping the codebase private***)
  
 **DevFlow** is an all-in-one software development assistant designed to streamline the software lifecycle process. It integrates tools for **UML generation**, **unit test generation**, **code environments**, and **documentation management**, all within a secure, built-in Linux system.
 
