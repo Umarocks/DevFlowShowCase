@@ -1,5 +1,7 @@
 # **DevFlow: Software Development Assistant** [UNDER DEVELOPMENT]  
-( ***Due to the nature and high potential of the project, i am keeping the codebase private***)
+DUE TO THE NATURE AND HIGH POTENTIAL OF THE PROJECT, THE CODEBASE IS PRIVATE. IF YOU WISH TO REVIEW IT, PLEASE SET UP A VIRTUAL MEETING.  
+
+[Connect with me](https://www.linkedin.com/in/umarocks)
  
 **DevFlow** is an all-in-one software development assistant designed to streamline the software lifecycle process. It integrates tools for **UML generation**, **unit test generation**, **code environments**, and **documentation management**, all within a secure, built-in Linux system.
 
