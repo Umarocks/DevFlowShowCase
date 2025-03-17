@@ -1,5 +1,6 @@
 # **DevFlow: Software Development Assistant** [UNDER DEVELOPMENT]  
 DUE TO THE NATURE AND HIGH POTENTIAL OF THE PROJECT, THE CODEBASE IS PRIVATE. IF YOU WISH TO REVIEW IT, PLEASE SET UP A VIRTUAL MEETING.  
+** Project Under Development for 1.5 months **
 
 [Connect with me](https://www.linkedin.com/in/umarocks)
  
@@ -10,28 +11,27 @@ DUE TO THE NATURE AND HIGH POTENTIAL OF THE PROJECT, THE CODEBASE IS PRIVATE. IF
 ## Features
 
 ### UML Generation
-- **UML Generation** is simplified using custom React commands like `@SEQUENCE`. Generate UML diagrams (including sequence diagrams) based on your SRS document or chat inputs.
+- **UML Generation** is simplified using custom commands like `@SEQUENCE` `@ACTIVITY` `@CLASS` etc  based on your SRS document or chat inputs.
 - The generated UML code and diagrams are displayed and can be downloaded for further use.
-- Built with **React**, **FastAPI**, and **Tailwind CSS** for a responsive, user-friendly interface.
 
 ![UML Generation](https://files.catbox.moe/d7css4.png)  <!-- Add UML generation image here -->
 ![Example Of Generated Sequence Diagram](https://files.catbox.moe/wnsgkb.jpg)
 ### Unit Test Generation
 DevFlow supports automated unit test generation and testing directly in the app. The section consists of four components:
-1. **Chatbot Area**: Use the `@gitclone` command to clone repositories and virtually mount them to your workspace.
-2. **File System**: A client-side file system that can be mounted to a **secure Linux VM**, allowing you to work directly on your codebase.
-3. **Terminal**: Interact with your VM via a custom terminal section, much like AWS EC2 instances but optimized for developer needs.
+1. **Chatbot Area**: Use the `@gitclone` command to clone repositories and virtually mount them to your workspace. `@TESTGENERATE` to generate test case for the file that is opened in the in app code ide, or `@TESTALL` to generate test files for each file in the virtual file system.
+2. **File System**: A client-side file system that can be mounted to a individualized **secure Linux VM**, allowing you to work directly on your codebase. These VM can be shared between multiple people, teams and groups if needed.
+3. **Terminal**: Interact with your VM via a custom terminal section, much like AWS EC2 webterminal but optimized for developer needs.
 4. **IDE**: Code, test, and run your software directly in the app without switching tabs or environments.
 
 ![Unit Test](https://files.catbox.moe/w23iog.png)  <!-- Add Unit Test Generation image here -->
 
 ### Documentation Management (RAG)
-- **Document RAG (Retreival-Augmented-Generation)**: Store your **SRS** and other coding documentation for easy retrieval and management.
-- **Assist Developers**: Search and retrieve relevant coding documentation to increase productivity and ensure alignment with coding standards.
+- **Document RAG (Retreival-Augmented-Generation)**: Store your **SRS** and other code documentation for easy retrieval and management.You can ask questions such as asking for a specific method in the code base or asking  what that specific method is used for across the codebase.
+- **Assist Developers**: Search and retrieve relevant coding documentation to increase productivity and ensure alignment with coding standards. Developers can directly  access the pdf opened in the tab and can navigate  the pdf if needed for further context.
 
 ![Documentation](https://files.catbox.moe/4kexn4.png)  <!-- Add Documentation Management image here -->
 
-### Verify & Validate (Under Development)
+### Verify & Validate 
 - **Code Validation**: Automatically run unit tests, generate reports, and score your software based on predefined coding guidelines.
 - **Score & Metrics**: The validation section will provide a score for your software quality, highlighting potential improvements and ensuring high code standards.
 
@@ -41,19 +41,19 @@ DevFlow supports automated unit test generation and testing directly in the app.
 - **Frontend**: React, Tailwind CSS
 - **Backend**: FastAPI
 - **Linux Environment**: Alpine Linux VM for secure, isolated coding and testing environments
-- **Chatbot Integration**: Custom commands like `@SEQUENCE`, `@UNITTESTGENERATE`, and `@gitclone` for seamless interaction.
+- **Chatbot Integration**: Custom commands like `@SEQUENCE`, `@TESTGENERATE`, and `@gitclone` for seamless interaction.
 
 ## Installation
 To run **DevFlow** locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/umarocks/LLM-Software-Engineering.git
+   git clone https://github.com/umarocks/DevFlow.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd LLM-Software-Engineering
+   cd DevFlow
    ```
 
 3. Docker Compose:
