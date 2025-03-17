@@ -1,6 +1,6 @@
 # **DevFlow: Software Development Assistant** [UNDER DEVELOPMENT]  
 DUE TO THE NATURE AND HIGH POTENTIAL OF THE PROJECT, THE CODEBASE IS PRIVATE. IF YOU WISH TO REVIEW IT, PLEASE SET UP A VIRTUAL MEETING.  
-** Project Under Development for 1.5 months **
+**Project Under Development for 1.5 months**
 
 [Connect with me](https://www.linkedin.com/in/umarocks)
  
