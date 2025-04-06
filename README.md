@@ -16,8 +16,8 @@ DUE TO THE NATURE AND HIGH POTENTIAL OF THE PROJECT, THE CODEBASE IS PRIVATE. IF
 - **UML Generation** is simplified using custom commands like `@SEQUENCE` `@ACTIVITY` `@CLASS` etc  based on your SRS document or chat inputs.
 - The generated UML code and diagrams are displayed and can be downloaded for further use.
 
-![UML Generation](https://files.catbox.moe/d7css4.png)  <!-- Add UML generation image here -->
-![Example Of Generated Sequence Diagram](https://files.catbox.moe/wnsgkb.jpg)
+![UML Generation](https://files.catbox.moe/7wmdas.jpg)  <!-- Add UML generation image here -->
+![Example Of Generated Sequence Diagram](https://files.catbox.moe/b98ki3.svg)
 ### Unit Test Generation
 DevFlow supports automated unit test generation and testing directly in the app. The section consists of four components:
 1. **Chatbot Area**: Use the `@gitclone` command to clone repositories and virtually mount them to your workspace. `@TESTGENERATE` to generate test case for the file that is opened in the in app code ide, or `@TESTALL` to generate test files for each file in the virtual file system.
