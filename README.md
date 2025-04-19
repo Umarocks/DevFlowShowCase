@@ -20,8 +20,7 @@ DevFlow introduces a powerful document generation assistant that enables seamles
 Use the `@DOCGEN` command in the chatbot to generate a complete SRS document with just a single line of input.  
 For example:
 
-
-[https://github.com/user-attachments/assets/d57e0dae-1de2-48be-8593-4311735bcc93](https://files.catbox.moe/eyxp6m.png)
+![DOCGEN](https://files.catbox.moe/eyxp6m.png)
 
 
 
