@@ -71,7 +71,7 @@ DevFlow supports automated unit test generation and testing directly in the app.
 - **Document RAG (Retreival-Augmented-Generation)**: Store your **SRS** and other code documentation for easy retrieval and management.You can ask questions such as asking for a specific method in the code base or asking  what that specific method is used for across the codebase.
 - **Assist Developers**: Search and retrieve relevant coding documentation to increase productivity and ensure alignment with coding standards. Developers can directly  access the pdf opened in the tab and can navigate  the pdf if needed for further context.
 
-![Documentation](https://files.catbox.moe/4kexn4.png)  <!-- Add Documentation Management image here -->
+ <!-- Add Documentation Management image here -->
 
 ### Verify & Validate 
 - **Code Validation**: Automatically run unit tests, generate reports, and score your software based on predefined coding guidelines.
