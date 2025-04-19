@@ -12,6 +12,47 @@ DUE TO THE NATURE AND HIGH POTENTIAL OF THE PROJECT, THE CODEBASE IS PRIVATE. IF
 
 ## Features
 
+### 📄 SRS Document Generation
+
+DevFlow introduces a powerful document generation assistant that enables seamless creation of **Software Requirements Specification (SRS)** documents using natural language prompts and context-aware understanding.
+
+#### 🚀 Current Capabilities
+Use the `@DOCGEN` command in the chatbot to generate a complete SRS document with just a single line of input.  
+For example:
+
+
+https://github.com/user-attachments/assets/d57e0dae-1de2-48be-8593-4311735bcc93
+
+
+
+- ✅ Automatically organizes standard SRS sections:  
+  *Introduction, Functional Requirements, System Architecture, Non-Functional Requirements*, etc.
+- ✅ Smart breakdown of modules and features based on the given prompt.
+- ✅ Edits and additions can be made section-wise within the app.
+- ✅ Download the generated document as **PDF**, **DOCX**, or **Markdown**.
+
+#### 🔭 Long-Term Vision
+The goal is to evolve DevFlow’s document generation system into a **fully autonomous development documentation assistant**.
+
+> 💡 Imagine this:  
+> During a client meeting, an in-app **Meeting Transcriber** listens to the discussion, captures core technical requirements, goals, constraints, and user flows — then auto-generates a polished SRS draft without the team writing a single line.
+
+This intelligent pipeline will eventually support other technical documents too:
+- ✅ Project Reports  
+- ✅ Design Documents  
+- ✅ API Docs  
+- ✅ Test Plans  
+
+#### 🎯 Why It Matters
+- 🕒 Saves hours of writing and formatting
+- 📄 Maintains consistent documentation quality
+- 🤝 Bridges communication between clients and devs
+- 📂 Reduces back-and-forth in Agile cycles
+
+---
+
+
+
 ### UML Generation
 - **UML Generation** is simplified using custom commands like `@SEQUENCE` `@ACTIVITY` `@CLASS` etc  based on your SRS document or chat inputs.
 - The generated UML code and diagrams are displayed and can be downloaded for further use.
