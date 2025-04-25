@@ -4,12 +4,12 @@
 BECAUSE THE PROJECT RIGHTS BELONG TO TIETRONIX, THE CODEBASE IS PRIVATE. IF YOU WISH TO REVIEW IT, PLEASE SET UP A VIRTUAL MEETING.  
 
 
+[Connect with me](https://www.linkedin.com/in/umarocks)
 
 https://github.com/user-attachments/assets/01f91328-6bc9-4ccc-a7e6-4f6155de1086
 
 
 
-[Connect with me](https://www.linkedin.com/in/umarocks)
  
 **DevFlow is an AI-powered software engineering assistant that streamlines the entire development lifecycle — from generating SRS and UML diagrams to producing unit tests and validating code — all within a secure, integrated environment. It features a built-in code IDE and a browser-based Linux terminal running in isolated virtual machines, letting developers write, test, and debug code without ever leaving the platform. By combining Retrieval-Augmented Generation and local LLMs, DevFlow reduces context switching, boosts productivity, and ensures complete data privacy.**
 
