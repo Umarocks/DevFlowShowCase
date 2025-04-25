@@ -1,8 +1,12 @@
   <!-- Add your banner image here -->
 ![DevFlow Banner](https://files.catbox.moe/8y56pm.png)
-# **DevFlow: Software Development Assistant** [UNDER DEVELOPMENT]  
-DUE TO THE NATURE AND HIGH POTENTIAL OF THE PROJECT, THE CODEBASE IS PRIVATE. IF YOU WISH TO REVIEW IT, PLEASE SET UP A VIRTUAL MEETING.  
-**Project Under Development for 1.5 months**
+# **DevFlow: Software Development Assistant**  
+BECAUSE THE PROJECT RIGHTS BELONG TO TIETRONIX, THE CODEBASE IS PRIVATE. IF YOU WISH TO REVIEW IT, PLEASE SET UP A VIRTUAL MEETING.  
+
+
+https://github.com/user-attachments/assets/85d9099f-15c5-412b-8181-3e7593a10f9b
+
+
 
 [Connect with me](https://www.linkedin.com/in/umarocks)
  
